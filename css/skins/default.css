@@ -2841,7 +2841,7 @@ html[dir="rtl"] #header .tip.skin:before {
 
 	#header .header-nav.header-nav-top-line nav > ul li.active > a,
 	#header .header-nav.header-nav-top-line nav > ul li:hover > a {
-		color: #0088cc;
+		color: rgb(142,6,10);
 	}
 
 	#header .header-nav.header-nav-top-line nav > ul li.active > a:before,
