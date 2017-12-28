@@ -165,15 +165,15 @@
 	padding: 7px 0 4px 95px;
 	margin: 0;
 	text-transform: none;
-	font-family: Georgia, serif;
+	font-family: "Open Sans", Arial, sans-serif;
 	font-style: italic;
 }
 .special-menu h3 em {
 	font-size: 16px;
 }
 .special-menu p {
-	font-size: 1.3em;
-	font-family: Georgia, serif;
+	font-size: 1em;
+	font-family: "Open Sans", Arial, sans-serif;
 	font-style: italic;
 	margin: 0 0 0 95px;
 	position: relative;
@@ -192,8 +192,8 @@
 	height: 1px;
 	left: 0%;
 	position: absolute;
-	bottom: 5px;
 	width: 100%;
+	top: 50%;
 	z-index: 1;
 }
 .special-menu .special-menu-price {
@@ -201,7 +201,7 @@
 	display: inline-block;
 	float: right;
 	font-size: 22px;
-	margin-top: -26px;
+	margin-top: -39px;
 	padding: 0 0 0 10px;
 	position: relative;
 	z-index: 3;
