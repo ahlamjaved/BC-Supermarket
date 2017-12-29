@@ -2385,14 +2385,6 @@ html[dir="rtl"] .tabs.tabs-vertical.tabs-right .nav-tabs li.active .nav-link:foc
 	border-left-color: rgb(142,6,10);
 }
 
-.list.list-icons li > .fa:first-child,
-.list.list-icons li a:first-child > .fa:first-child,
-.list.list-icons li > .icons:first-child,
-.list.list-icons li a:first-child > .icons:first-child {
-	color: rgb(142,6,10);
-	border-color: rgb(142,6,10);
-}
-
 .list.list-icons.list-icons-style-3 li > .fa:first-child,
 .list.list-icons.list-icons-style-3 li a:first-child > .fa:first-child,
 .list.list-icons.list-icons-style-3 li > .icons:first-child,
